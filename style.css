@@ -11,12 +11,12 @@ button{
     padding: 10px 15px;
     border-radius: 15px;
     border: none;
-    background-color: rgb(255, 226, 190);
+    background-color: rgb(27, 228, 70);
     font-weight: bold;
     cursor: pointer;
 }
 button:hover{
-    background-color: rgb(255, 238, 217);
+    background-color: rgb(71, 248, 18);
 }
 button:active{
     background-color: rgb(243, 239, 233);
